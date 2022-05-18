@@ -1,5 +1,8 @@
 # CRGEN
 
+# Description
+Code of CRGEN-T in "Continuous Group Equivariant Networks Inspired by Neural Population Coding"
+
 # Environments requirements: 
 pytorch-1.4.0,torchvision-0.5.0,numpy
 
